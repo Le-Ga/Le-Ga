@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="150px"/>
+# Hi there! <img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="150px"/>
 
 ### My name Oleg, and I'm a front-end developer.
 
