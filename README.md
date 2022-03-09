@@ -1,6 +1,6 @@
-# Hi there! <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="120px"/>
+# Hi there! <img src="https://media.giphy.com/media/yo74NqufrR7pK/giphy.gif" width="150px"/>
 
-### My name Oleg, and i'm a front-end developer.
+### My name Oleg, and I'm a front-end developer.
 
 **My tech stack:**
 
