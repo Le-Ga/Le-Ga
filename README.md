@@ -2,7 +2,7 @@
 
 ### My name Oleg, and i'm a front-end developer.
 
-** My tech stack:**
+**My tech stack:**
 
 * HTML/CSS
 * JavaScript
