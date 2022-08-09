@@ -6,6 +6,6 @@
 
 * HTML/CSS
 * JavaScript
-* REACT
+* REACT (router, redux-toolkit, hooks)
 
 📧Contact me:[Telegram](https://t.me/Ole_G_90_web_dev), [My website- portfolio](https://bristle-daffy-stoat.glitch.me/)
