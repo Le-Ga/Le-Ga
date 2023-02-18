@@ -8,4 +8,4 @@
 * JavaScript
 * REACT (router, redux-toolkit, hooks)
 
-📧Contact me:[Telegram](https://t.me/Ole_G_90_web_dev), [My website - portfolio](https://bristle-daffy-stoat.glitch.me/)
+📧Contact me:[Telegram](https://t.me/Ole_G_90_web_dev), [My website - portfolio](https://dynamic-chebakia-6fc379.netlify.app)
