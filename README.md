@@ -6,6 +6,6 @@
 
 * HTML/CSS
 * JavaScript
-* REACT (router, redux-toolkit, hooks)
+* REACT (router, redux-toolkit)
 
 📧Contact me:[Telegram](https://t.me/Ole_G_90_web_dev), [My website - portfolio](https://dynamic-chebakia-6fc379.netlify.app)
